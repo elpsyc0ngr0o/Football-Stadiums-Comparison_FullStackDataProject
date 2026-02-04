@@ -5,3 +5,6 @@ Projet data end-to-end dans le but d'analyser la capacité des stades de footbal
 
 1ère partie automatisée avec Airflow : Scraping des données avec BeautifulSoup -> Obtention des latitudes/longitudes avec ArcGIS Geocoder -> Normalisation et formatage avec pandas -> Envoi du CSV vers Azure Data Lake.
 2ème partie : Transformation du fichier CSV en Parquet dans Data Factory -> Analyse des données via SQL dans Synapse Analytics -> Création d'un dashboard dans Tableau.
+
+<img width="1378" height="692" alt="image" src="https://github.com/user-attachments/assets/e017d799-334d-41d0-85d4-cb73aa2bec93" />
+
